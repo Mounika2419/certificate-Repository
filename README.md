@@ -26,6 +26,18 @@ Successfully completed **CRUD Operations in MongoDB** from **MongoDB University*
 - NoSQL Databases
 - Query Optimization
 
+
+## ☁️ AWS Academy Graduate – Cloud Foundations
+
+Successfully completed **AWS Academy Cloud Foundations**.
+
+- **Organization:** Amazon Web Services (AWS)
+- **Credential:** AWS Academy Graduate – Cloud Foundations – Training Badge
+- **Completed:** October 2026
+
+### 📜 Certificate
+
+[View AWS Certificate](AWS_Academy_Graduate__Cloud_Foundations...)
 ---
 
 ⭐ More certifications will be added as I continue learning.
